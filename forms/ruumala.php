@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>PHP - RUUMALA</title>
+    <title>PHP - KEHADE RUUMALA</title>
 </head>
 <body>
 <h1>ANDMED</h1>
