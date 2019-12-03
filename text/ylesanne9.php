@@ -8,3 +8,11 @@ echo 'Tere,'.' ' .$nimi. '!';
 echo '<hr>';
 
 
+$sisend = $_GET ['sisend'];
+for ($indeks = 0; $indeks < strlen($sisend); $indeks++){
+    $symbol = strtoupper($sisend);
+    echo $symbol.;
+
+
+
+}
