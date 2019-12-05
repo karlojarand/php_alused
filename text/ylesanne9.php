@@ -38,7 +38,7 @@ echo '<hr>';
 
 
 
-    
+
     $nimiJaPerenimi = $_GET['nimijaperenimi'];
     $asendus = array(
         'ä' => 'a',
