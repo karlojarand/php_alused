@@ -7,4 +7,5 @@
 <hr>
 <form action="ylesanne9.php" method="get">
     Suvaline sõna:<input type="text" name="sisend">
+    <input type="submit" value="Edasta!"
 </form>

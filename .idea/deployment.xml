@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="/php_alused">
+  <component name="PublishConfigData" serverName="/php_alused" uploadOnCheckin="c50816c2-3928-4c47-a9a2-1a2fdb7360d2">
     <serverData>
       <paths name="/php_alused">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="/php_alused" />
   </component>
 </project>
