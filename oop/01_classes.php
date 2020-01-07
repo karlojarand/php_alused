@@ -21,5 +21,5 @@ $user2 ->firstName = 'Jane';
 $user2 ->lastName  = 'Doe';
 
 echo $hello . ",  " . $user1->firstName . " " . $user1->lastName;
-
+echo '<br>';
 echo $hello . ",  " . $user2->firstName . " " . $user2->lastName;
