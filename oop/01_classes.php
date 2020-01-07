@@ -9,7 +9,6 @@ class User {
     }
 }
 
-
 $user1 = new User();
 $user1->firstName = 'John';
 $user1->lastName  = 'Doe';
