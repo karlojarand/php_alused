@@ -8,6 +8,7 @@ class User{
         return "hello," . $this->firstName;
     }
 }
+
 $user1= new User();
 $user1 ->firstName ='Jonnie';
 $user1 ->lastName ='Roe';
