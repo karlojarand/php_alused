@@ -23,3 +23,4 @@ $LuksuslikBurger = new LuxuryBurger();
 $LuksuslikBurger->valiLisand1('Soovin lisada salat', 1.75);
 $loppHind = $luxuryBurger->teemeBurger();
 echo 'Summa on'.$loppHind.'EUR;<br>';
+
